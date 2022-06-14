@@ -1,4 +1,4 @@
-module github.com/tendermint/budget
+module github.com/sryps/budget
 
 go 1.17
 
